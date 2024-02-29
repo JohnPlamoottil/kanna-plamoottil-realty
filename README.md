@@ -1,98 +1,34 @@
-# Project 5: Around the USA
+# Real Estate Website
 
 ### Overview
 
-- Intro (3)
-- Figma (3)
-- Images (3)
-- Javascript (4)
-- Element Cloning (Moving and Removing Elements) (5)
-- DOM Related Methods Return Array-Like Collections
-  - These Collections are querySelectorAll, Array.from() (5)
+- Licensed in Illinois
+- Sponser: Brickstone International Inc.
+- Managing Broker = Pradeep Varghese
+- Mentor = Anish M. Plamoottil
 
 **Descriptions**
 
-This project is a portion of the continuing project called Around the U.S. (started in Sprint3)
+create website
 
-In Sprint3, I created a responsive layout from the design specs in Figma using grids and adding buttons.
+attach and link QR code
 
-1. Working with fonts and text in Figma
-2. Working with images in Figma
-3. Working with other users
-4. Saving a Figma file
-5. Deploy your project to GitHub Pages
-6. Publish your project on GitHub Pages for the whole world to see.
+paste code on fliers and business cards
 
-In Sprint4 I utilized Javascript (script.js) to make the project interactive:
-
-1. stage 1 - creating an array for initial cards for the 6 imgs and links
-2. stage 2 - creating a modal box in the CSS
-3. stage 3 - using the DOM to create buttons within About Me, Save, Close integrated with HTML and CSS and JS
-4. stage 4 - adding final functionality to the modal box and making the 6 cards render from the array
-
-In Sprint5, I added on more elements to the previous project. The elements I added includes a new modal for adding new cards to display, an image popup that toggles on mouse-click, a like button that interacts with mouse-clicks and a delete icon that removes cards fromthe page.
-
-1. Rendered Cards
-2. Form for Adding a Card
-3. Adding a Card (New Place)
-4. Inserting Like Button (heart icon)
-5. Inserting Trash Icon for Deleting a Card
-6. Opening a Picture Modal
-7. Smooth Modal Opening and Closing
-
-Project Objectives:
-
-Sprint3:
-
-1. working with design specs
-2. design in a world of ever-changing devices
-3. grid layout
-4. developing interfaces for different devices
-5. intermediate Git
-
-Sprint4:
-
-1. Data Types and Variables
-2. Conditionals and Loops
-3. Data Structures, Arrays, and Objects
-4. Functions
-5. Basics of the DOM
-6. Debugging
-7. Export GIT
-
-Sprint5:
-
-1. More About Strings, Numbers, and ...
-2. Array Methods
-3. Functions. Part2
-4. Working c the DOM. Part2
-5. Managing the GIT Story
+post in gyms, laundromats, grocery stores
 
 **Intro**
 
-This project is made so all the elements are displayed correctly on popular screen sizes using media queries.
+compatible on mobile, iPads, and desktops
 
-**Figma**
+**contact me**
 
-- [Link to the project5 on Figma] (https://www.figma.com/file/JFPhASqvZ5pBjQV2ouUlim/Sprint-5_-Around-The-U.S.-_-desktop-%2B-mobile-(Copy)?type=design&node-id=0-1&mode=design&t=3Is6tCgbLMhdDBfO-0#40;Copy&#41;?t=3hvVWRz9LUFsxyNn-6)
+**MLS Images**
 
-- [Link to the project4 stage3&4 on Figma] (https://www.figma.com/file/EO5AaNCuzzFL7X5gSY7HwQ/Sprint-4_-Around-The-U.S.-_-desktop-%2B-mobile?type=design&node-id=0-1&mode=design&t=z5FVK2njhR9SnGnr-0)
-
-- [Link to the project4 stage2 on Figma] (https://www.figma.com/file/mUgu8OSHWE0M6p6vfwmdu9/Sprint-4%3A-Around-The-U.S.-%2F-desktop-%2B-mobile?node-id=6432%3A356&mode=dev)
-
-- [Link to the project4 stage1 on Figma] (https://www.figma.com/file/EO5AaNCuzzFL7X5gSY7HwQ/Sprint-4_-Around-The-U.S.-_-desktop-%2B-mobile?node-id=0%3A1&mode=dev)
-
-- [Link to the project3 on Figma] (https://www.figma.com/file/Es8zZP3ARGH9JGcw60i3OD/Sprint-3_-Around-the-US?node-id=6432%3A187&mode=dev)
-
-**Images**
-
-- retrieved the images from the sprint3 platform
-- or the images could be directly exported from Figma is another method
-- optimized them so the projects load faster
-- [project3 image](./readme%20image/project3.png)
+- retrieved the images from the MLS platform
+- live images exported from drone captured images
 
 Good Luck and Have Fun!
+git hub link [git@github.com:JohnPlamoottil/kanna-plamoottil-realty.git]
 
-- [Project Link](https://johnplamoottil.github.io/se_project_aroundtheus/)
-
-- [Project3 Video Submission Youtube unlisted Link](https://youtu.be/9h6GOltyLww)
+- [Message from JJ ... unlisted Link](...)

@@ -6,8 +6,9 @@
 
 .header__logo {
   margin-bottom: 41px;
-  width: 173px;
-  height: 33px;
+  width: 290px;
+  height: 200px;
+  justify-content: center;
 }
 
 @media screen and (max-width: 775px) {
