@@ -1,27 +1,28 @@
 const initialCards = [
   {
     name: "2583 W Birch Dr",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/yosemite.jpg",
+    link: "../card-images/2583wbirchdr",
+    link: "https://drive.google.com/file/d/1wt6WTZQy_8E6HY8N0WVhqImKR8J5kFg2/view?usp=drive_link",
   },
   {
     name: "277 W Biros Ln",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/lake-louise.jpg",
+    link: "https://drive.google.com/file/d/12BWOuWeW6XUBWIFNzFDmKHZBYh5xaphZ/view?usp=drive_link",
   },
   {
     name: "154 Wildflower Ln",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/bald-mountains.jpg",
+    link: "https://drive.google.com/file/d/1_tZJgbybSxvZf8JQQDzNINmOt-0Eo-ya/view?usp=drive_link",
   },
   {
     name: "1001 S Windsor Ct",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/latemar.jpg",
+    link: "https://drive.google.com/file/d/1k6G5CGzNXYFkOWgaAG3wagvMbdcUabw7/view?usp=drive_link",
   },
   {
     name: "532 Fairfax Ln",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/vanoise.jpg",
+    link: "https://drive.google.com/file/d/1oYe5ce-PlNeYHrUrvHIA81Ngb9N3cO7f/view?usp=drive_link",
   },
   {
     name: "525 S Park Rd",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/lago.jpg",
+    link: "https://drive.google.com/file/d/1NY0QPntkeXdqEVh3rkXyLqKXKpWjdicC/view?usp=drive_link",
   },
 ];
 
