@@ -34,3 +34,5 @@ git hub link [(https://github.com/JohnPlamoottil/kanna-plamoottil-realty.git)]
 - [Message from JJ ... unlisted Link](...)
 
 # gh-cdn-demo
+
+- https://cdn.jsdelivr.net/gh/JohnPlamoottil/kanna-plamoottil-realty/test-cdn.js
