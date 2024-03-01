@@ -2,6 +2,7 @@
 
 ### Overview
 
+- Illinois Licensed Real Estate Broker Agent
 - Licensed in Illinois
 - Sponser: Brickstone International Inc.
 - Managing Broker = Pradeep Varghese
@@ -36,3 +37,5 @@ git hub link [(https://github.com/JohnPlamoottil/kanna-plamoottil-realty.git)]
 # gh-cdn-demo
 
 - https://cdn.jsdelivr.net/gh/JohnPlamoottil/kanna-plamoottil-realty/test-cdn.js
+
+- [http://127.0.0.1:5501/test-cdn.html] test-cdn.html

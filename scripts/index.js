@@ -1,32 +1,32 @@
 const initialCards = [
   {
     name: "277 W Biros Ln",
-    link: "../card-images/277wbirosln.jpg",
+    link: "./card-images/277wbirosln.jpg",
     // link: "https://drive.google.com/file/d/12BWOuWeW6XUBWIFNzFDmKHZBYh5xaphZ/view?usp=drive_link",
   },
   {
     name: "154 Wildflower Ln",
-    link: "../card-images/154wildflowerln.jpg",
+    link: "./card-images/154wildflowerln.jpg",
     // link: "https://drive.google.com/file/d/1_tZJgbybSxvZf8JQQDzNINmOt-0Eo-ya/view?usp=drive_link",
   },
   {
     name: "1001 S Windsor Ct",
-    link: "../card-images/1001swindsorct.jpg",
+    link: "./card-images/1001swindsorct.jpg",
     // link: "https://drive.google.com/file/d/1k6G5CGzNXYFkOWgaAG3wagvMbdcUabw7/view?usp=drive_link",
   },
   {
     name: "532 Fairfax Ln",
-    link: "../card-images/532fairfaxln.jpg",
+    link: "./card-images/532fairfaxln.jpg",
     // link: "https://drive.google.com/file/d/1oYe5ce-PlNeYHrUrvHIA81Ngb9N3cO7f/view?usp=drive_link",
   },
   {
     name: "525 S Park Rd",
-    link: "../card-images/525sparkrd.jpg",
+    link: "./card-images/525sparkrd.jpg",
     // link: "https://drive.google.com/file/d/1NY0QPntkeXdqEVh3rkXyLqKXKpWjdicC/view?usp=drive_link",
   },
   {
     name: "2583 W Birch Dr",
-    link: "../card-images/2583wbirchdr.jpg",
+    link: "./card-images/2583wbirchdr.jpg",
     // link: "https://drive.google.com/file/d/1wt6WTZQy_8E6HY8N0WVhqImKR8J5kFg2/view?usp=drive_link",
   },
 ];
