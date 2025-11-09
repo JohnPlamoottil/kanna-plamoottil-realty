@@ -40,13 +40,4 @@ compatible on mobile, iPads, and desktops
 
 ### Good Luck and Have Fun!
 
-git hub link [(https://github.com/JohnPlamoottil/kanna-plamoottil-realty.git)]
-
-- [Message from JJ ... unlisted Link](...)
-
-# gh-cdn-demo
-
-- https://cdn.jsdelivr.net/gh/JohnPlamoottil/kanna-plamoottil-realty/test-cdn.js
-
-- [http://127.0.0.1:5501/test-cdn.html] test-cdn.html
->>>>>>> 5a19e1af66f1ba9e4aa5d1f8d11857a2b8c6f229
+(git hub link)[(https://github.com/JohnPlamoottil/kanna-plamoottil-realty.git)]
