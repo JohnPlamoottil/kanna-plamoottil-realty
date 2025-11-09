@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="JJ Plamoottil's Real Estate Site" />
+    <meta name="keywords" content="HTML, CSS, Javascript" />
+    <meta name="author" content="JJ Plamoottil" />
+    <meta name="viewport" content="=width=device-width, initial-scale=1.0" />
+    <title>Kanna Plamoottil Realty</title>
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" href="./pages/index.css" />
+  </head>
+  <body class="page">
+    <div class="page__content">
+      <header class="header page__section">
+        <img
+          class="header__logo"
+          src="./card-images/logo.png"
+          alt="Result Driven Mindset Realty"
+        />
+        <img
+          class="header__logo"
+          src="./card-images/dream home.png"
+          alt="dream home"
+        />
+        <img
+          class="header__logo"
+          src="./card-images/logo-1.jpg"
+          alt="RDM logo"
+        />
+      </header>
+      <main class="content">
+        <section class="profile">
+          <img
+            src="./card-images/kanna-plamoottil.jpg"
+            alt="Avator"
+            class="profile__image"
+          />
+          <div class="profile__content">
+            <h1 class="profile__title">John J. Plamoottil</h1>
+            <button
+              class="profile__edit-button"
+              id="profile-edit-button"
+              type="button"
+            ></button>
+            <p class="profile__description">
+              Illinois Licensed Real Estate Broker Agent
+            </p>
+          </div>
+          <button type="button" class="profile__add-button"></button>
+        </section>
+        <section class="cards">
+          <ul class="cards__list">
+            <!-- <li class="card">
+              <img
+                src="./card-images/154wildflowerln.jpg"
+                class="card__image"
+                alt="154 Wildlfower Ln"
+              />
+              <div class="card__description">
+                <h2 class="card__title">154 Wildflower Ln</h2>
+                <button type="button" class="card__like-button"></button>
+              </div>
+            </li>
+            <li class="card">
+              <img
+                src="./card-images/1001swindsorct.jpg"
+                class="card__image"
+                alt="1001 S Windsor Ct"
+              />
+              <div class="card__description">
+                <h2 class="card__title">1001 S Windsor Ct</h2>
+                <button type="button" class="card__like-button"></button>
+              </div>
+            </li>
+            <li class="card">
+              <img
+                src="./card-images/2583wbirchdr.jpg"
+                class="card__image"
+                alt="2583 W Birch Dr"
+              />
+              <div class="card__description">
+                <h2 class="card__title">2583 W Birch Dr</h2>
+                <button type="button" class="card__like-button"></button>
+              </div>
+            </li>
+            <li class="card">
+              <img
+                src="./card-images/277wbirosln.jpg"
+                class="card__image"
+                alt="277 W Biros Ln"
+              />
+              <div class="card__description">
+                <h2 class="card__title">277 W Biros Ln</h2>
+                <button type="button" class="card__like-button"></button>
+              </div>
+            </li>
+            <li class="card">
+              <img
+                src="./card-images/525sparkrd.jpg"
+                class="card__image"
+                alt="525 S Park Rd"
+              />
+              <div class="card__description">
+                <h2 class="card__title">525 S Park Rd</h2>
+                <button type="button" class="card__like-button"></button>
+              </div>
+            </li>
+            <li class="card">
+              <img
+                src="./card-images/532fairfaxln .jpg"
+                class="card__image"
+                alt="532 Fairfax Ln"
+              />
+              <div class="card__description">
+                <h2 class="card__title">532 Fairfax Ln</h2>
+                <button type="button" class="card__like-button"></button>
+              </div>
+            </li> -->
+          </ul>
+        </section>
+      </main>
+      <!--Profile Edit Popup-->
+      <div class="modal" id="modal-profile">
+        <div class="modal__container modal__container_profile">
+          <button
+            class="modal__close-button modal__close-button_profile"
+            type="button"
+            aria-label="close-button"
+          ></button>
+          <h3 class="modal__title modal__title_profile">Edit Profile</h3>
+          <form class="modal__form modal__form_profile">
+            <!-- <input
+              class="modal__form-name modal__form-name_profile"
+              type="text"
+              name="Name"
+              placeholder="Name"
+            />
+            <input
+              class="modal__form-description modal__form-description_profile"
+              type="text"
+              name="About me"
+              placeholder="Description"
+            /> -->
+            <button
+              class="modal__submit-button modal__submit-button_profile"
+              type="submit"
+              aria-label="save-button"
+            >
+              Save
+            </button>
+          </form>
+        </div>
+      </div>
+      <!--End of profile edit pop up-->
+      <!--Add new place pop up-->
+      <div class="modal" id="modal-newplace">
+        <div class="modal__container modal__container_newplace">
+          <button
+            class="modal__close-button modal__close-button_newplace"
+            type="button"
+            aria-label="close-button"
+          ></button>
+          <h3 class="modal__title modal__title_newplace">Contact Us</h3>
+          <form class="modal__form modal__form_newplace">
+            <input
+              class="modal__form-title modal__form-title_newplace"
+              type="text"
+              name="First Name"
+              placeholder="First Name"
+            />
+            <input
+              class="modal__form-url modal__form-url_newplace"
+              type="text"
+              name="Last Name"
+              placeholder="Last Name"
+            />
+            <input
+              class="modal__form-url modal__form-url_newplace"
+              type="URL"
+              name="EMail"
+              placeholder="email"
+            />
+            <input
+              class="modal__form-url modal__form-url_newplace"
+              type="text"
+              name="phone number"
+              placeholder="phone number"
+            />
+            <button
+              class="modal__submit-button modal__submit-button_newplace"
+              type="submit"
+              aria-label="submit-button"
+            >
+              Submit
+            </button>
+          </form>
+        </div>
+      </div>
+      <!--End of new place pop up-->
+      <!--Card Preview-->
+      <div class="modal" id="modal-preview">
+        <div class="modal__container modal__container_preview">
+          <button
+            class="modal__close-button modal__close-button_preview"
+            type="button"
+            aria-label="close-button"
+          ></button>
+          <img src="#" alt="" class="modal__image modal__image_preview" />
+          <h3 class="modal__caption modal__caption_preview"></h3>
+        </div>
+      </div>
+      <!--End of card preview-->
+      <!--Card render template-->
+      <template id="card-template">
+        <li class="card">
+          <img src="#" class="card__image" alt="" />
+          <button
+            class="card__delete-button"
+            type="button"
+            aria-label="delete-button"
+          ></button>
+          <div class="card__description">
+            <h2 class="card__title"></h2>
+            <button
+              class="card__like-button"
+              type="button"
+              aria-label="like-button"
+            ></button>
+          </div>
+        </li>
+      </template>
+      <!--End of card render template-->
+      <footer class="footer">
+        <p class="footer__copyright">
+          ©Feb2024 Result Driven Mindset - JOHN J PLAMOOTTIL
+        </p>
+        <img
+          class="footer__logo"
+          src="./card-images/footerlogo.png"
+          alt="mred"
+        />
+      </footer>
+      <script src="scripts/index.js"></script>
+    </div>
+  </body>
+</html>

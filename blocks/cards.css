@@ -1,0 +1,21 @@
+.cards {
+  /*fonts*/
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  margin-top: 47.25px;
+  max-width: 882px;
+  /* max-height: 743px; */
+  margin: 47.25px auto 0;
+}
+.cards__list {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, 282px);
+  grid-gap: 20px 17px;
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-width: 775px) {
+  .cards {
+    margin-top: 0px;
+  }
+}
