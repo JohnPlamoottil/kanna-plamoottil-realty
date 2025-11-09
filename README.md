@@ -40,4 +40,4 @@ compatible on mobile, iPads, and desktops
 
 ### Good Luck and Have Fun!
 
-(git hub link)[(https://github.com/JohnPlamoottil/kanna-plamoottil-realty.git)]
+[git hub link](https://github.com/JohnPlamoottil/kanna-plamoottil-realty.git)
